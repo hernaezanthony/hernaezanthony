@@ -1,7 +1,7 @@
 
 ## 🧑🏻‍💻 About me:
 
-Hi, I'm Anthony. I'm a Software Engineer focusing on Android development based in the Philippines. I am passionate about programming and I love participating on hackathons to improve my coding and problem-solving skills.
+Hi, I'm Anthony. I’m an experienced Software Engineer from Philippines who worked on Android applications for various industries such as SaaS, recruitment, social service, construction and mobility.
 
 ## 🛠 Tools and Technologies:
 
